@@ -1,4 +1,4 @@
-## Hello, i'm leonardo
+## Leonardo N.
 
 - 🌱 I’m currently learning HMTL5, CSS3 and Language C
 - 👯 I intend to collaborate with other programmers
